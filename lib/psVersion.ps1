@@ -1,0 +1,1 @@
+write-host $PSVersionTable.PSVersion
